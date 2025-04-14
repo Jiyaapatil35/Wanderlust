@@ -1,0 +1,39 @@
+.home {
+    text-decoration: none;
+    color: #fe424d !important;
+}
+
+.home-btn {
+    border-color: #fe424d !important;
+    color: #fe424d !important;
+    margin-left:1rem;
+    border-radius: 10rem !important;
+}
+
+.home-btn:hover {
+    background-color: #fe424d !important;
+    color: #ebebeb !important;
+    border-color: #fe424d !important;
+}
+
+video {
+    margin: auto;
+    border-radius: 1.5rem;
+}
+
+video::-webkit-media-controls {
+    display: none !important;
+}
+  
+video::-webkit-media-controls-enclosure {
+    display: none !important;
+}
+  
+.container {
+    text-align: center;
+    padding: 30px;
+}
+
+.heading {
+    text-align: center;
+}
