@@ -2,7 +2,7 @@
 
 **Wanderlust** is a full-featured web application that allows users to browse, create, and review property listings. It's designed to provide a smooth and intuitive experience for both guests and hosts, with secure authentication and an easy-to-use interface for a seamless user experience.
 
-## 🎥 Live Demo Video  
+## Live Demo Video  
 Click below to watch the walkthrough of the Wanderlust application:
 
 [Watch the Wanderlust Demo](https://drive.google.com/file/d/1NFMz3c0yarEGr5OagVU5wn1rHT1cPJO9/view?usp=sharing)
