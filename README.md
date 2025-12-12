@@ -4,7 +4,7 @@
 
 ## Live Demo Video
 
-[![Wanderlust Demo](https://drive.google.com/file/d/1jGD22qtJnvMQSEUb4QxY96fCsP0iA45E/view?usp=sharing)](https://drive.google.com/file/d/1NFMz3c0yarEGr5OagVU5wn1rHT1cPJO9/view?usp=sharing)
+[![Wanderlust Demo](https://i.imgur.com/8Km9tLL.png)](https://drive.google.com/file/d/1NFMz3c0yarEGr5OagVU5wn1rHT1cPJO9/view?usp=sharing)
 
 ## Tech Stack
 
